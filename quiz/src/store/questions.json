@@ -1,0 +1,48 @@
+[
+  {
+    "id": 0,
+    "title": "React - is ...",
+    "variants": ["library", "framework", "function"],
+    "correct": 0
+  },
+  {
+    "id": 1,
+    "title": "Components - are ...",
+    "variants": [
+      "application",
+      "independent and reusable bits of code.",
+      "function"
+    ],
+    "correct": 1
+  },
+  {
+    "id": 2,
+    "title": "What is props?",
+    "variants": [
+      "arguments passed into React components.",
+      "HTML attributes",
+      "React tags"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 3,
+    "title": "What is JSX?",
+    "variants": [
+      "a JavaScript Extension Syntax used in React to easily write HTML and JavaScript together.",
+      "framework",
+      "are arguments passed into React components."
+    ],
+    "correct": 0
+  },
+  {
+    "id": 4,
+    "title": "What is hooks?",
+    "variants": [
+      "a JavaScript Extension",
+      "framework",
+      "are simple JavaScript functions that we can use to isolate the reusable part from a functional component."
+    ],
+    "correct": 2
+  }
+]
